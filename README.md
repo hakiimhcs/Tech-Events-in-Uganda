@@ -1,11 +1,10 @@
 ## 2026 Tech events in Uganda 
 Welcome to the centralized hub for all things tech in Uganda. This repository is a community-driven directory of upcoming conferences, meetups, hackathons, and workshops across the country.
+<img width="3780" height="1890" alt="Tech events in uganda by Sumaiya Nalukwago" src="https://github.com/user-attachments/assets/48310390-38d7-4cc2-84e9-6b69258356c6" />
 
 Why this exists?
 
 Social media feeds move fast, and important events often get buried. This repository serves as a permanent, searchable, and collaborative record to ensure no developer or tech enthusiast in Uganda misses out on growth opportunities.
-  
-![](/Tech events in uganda by Sumaiya Nalukwago.png)
  
 Every link in this repository includes a date when a particular event will be happening alongside the venue. The events are arranged according to months  
 
@@ -14,7 +13,7 @@ Every link in this repository includes a date when a particular event will be ha
 - Get the details by clicking on the link attached on each particular event to access the official registration page, agenda, and venue details for each event.
 - Stay updated by clicking the star button at the top of this page to save this repository in your favorites and check back regularly for new additions.
 
-## How to contribute
+## How to contribute:
 - Found an event i missed? Please help the community by forking this repository.
 - Add the event details (Please ensure you follow the existing format).
 - Submitting a pull request.
