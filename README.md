@@ -21,7 +21,10 @@ Every link in this repository includes a date when a particular event will be ha
 If you find this directory helpful, please consider giving it a star and feel free to share it with other techies.
 
 ## January
-- [ ] UPCOMING - https://www.openhackathons.org/s/upcoming-events
+- [ ] Foundations of Software Development by Refactory. If you are a young Woman 18-35 years, based in Mbarara, Fortportal, Mbale, and outskirts of Kampala. Apply for the Refactory Physical, Foundations of Software Development course by 4th January 2026.
+      Here is how to Apply:
+      Step 1: Apply for the course here: refactory.typeform.com/to/Qyx6jwXa
+      Step 2: Apply for the 10X Program Scholarship here: refactory.typeform.com/10XMopUp
 - [ ] UPCOMING - https://mlh.io/seasons/2025/events
 - [ ] Climate Fellowship - https://tinyurl.com/yzwx54vc JAN 15
 - [ ] Steward Leadership https://tinyurl.com/2zevua35 JAN 31
