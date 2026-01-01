@@ -36,7 +36,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 
 ## May
-- [ ] AgentCon 2025 - Kampala - Thursday, 21 May 2026  Learn more: (https://globalai.community/chapters/kampala/events/agentcon-kampala/)
+- [ ] AgentCon 2025 - Kampala - Thursday, 21 May 2026  Learn more: https://globalai.community/chapters/kampala/events/agentcon-kampala/
 
 
 ## June
