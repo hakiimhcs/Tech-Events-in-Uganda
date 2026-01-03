@@ -28,7 +28,6 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] Free 3-Day Maya Animation Introduction (Online) Hands-on andbeginner-friendly sessions designed to help you get started with Maya Animation. Join the class via: ([https://meet.google.com/ket-nxgh-wmi?authuser=2](https://meet.google.com/ket-nxgh-wmi?authuser=2)) Monday 5th, Tuesday 6th & Wednesday 7th January 2026. Time: 12:00 PM – 1:00 PM (EAT).
 ![animation training](https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6)
 
-
  
 ## February
 
