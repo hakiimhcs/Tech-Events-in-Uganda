@@ -25,7 +25,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
       Apply for the course here: https://refactory.typeform.com/to/Qyx6jwXa  and apply for the 10X Program Scholarship here: https://refactory.typeform.com/10XMopUp
       ![software development essentials  by refactory](https://github.com/user-attachments/assets/6a96884a-5f39-4860-b513-8dad740dc265)
 
-- [ ]The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
+- The AIFest 2026 is happening under the theme AI Agents for Uganda : beyond chatbots, building autonomous AI solutions for real-world impact. This is open to students, developers, researchers, founders, and tech enthusiasts across Uganda.
  Register to attend: ([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://tinyurl.com/aifest2026Muk)
 ![AI FEST 2026](https://github.com/user-attachments/assets/d5352c94-75aa-440c-801d-68ed9e5a2802)
 
@@ -36,6 +36,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 
 
 ## March
+- [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Register here:([https://github.com/user-attachments/assets/0a4b3215-fbd1-4ed3-bcc3-5c1498534be6](https://docs.google.com/forms/d/e/1FAIpQLSdX7tvo3u-InYs9vJJ40XeLB44P_q4B8r9EZlVFJa_zcZDWJA/closedform))
 
 
 ## April
