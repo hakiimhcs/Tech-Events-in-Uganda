@@ -48,15 +48,15 @@ If you find this directory helpful, please consider giving it a star and feel fr
 ## March
 - [ ] The Annual IndabaX Uganda 2026 and the IndabaX Spring School on Agent-Based Modelling will take place from Monday 23rd to Friday 27th March, 2026 a fully physical event in Kampala.   Learn more:(https://indabaxug.com/indabax2026/)
 - [ ] Word Camp Mukono will take place from Friday 13th March to Saturday 14th March, 2026 at Murs Country Resort, Kigunga
-Mukono, Uganda.  Learn more:(https://mukono.wordcamp.org/2026/)
+Mukono, Uganda.  Learn more: (https://mukono.wordcamp.org/2026/)
 
 
 ## April
 
 
 ## May
-- [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026  Learn more: https://globalai.community/chapters/kampala/events/agentcon-kampala/
-- [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more:(https://apste.net/conf/index.php?id=100633712)
+- [ ] AgentCon 2025 - Kampala. This will be held on Thursday, 21 May 2026. Learn more: https://globalai.community/chapters/kampala/events/agentcon-kampala/
+- [ ] International Conference on Virtual Reality and Augmented Reality in Athletic Training, organized by APSTE, held at Entebbe, Uganda on Thursday 7th May 2026. Learn more: (https://apste.net/conf/index.php?id=100633712)
 
 ## June
 
