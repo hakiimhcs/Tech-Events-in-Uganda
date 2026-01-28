@@ -42,7 +42,7 @@ If you find this directory helpful, please consider giving it a star and feel fr
 - [ ] Web Development training by Code Queen. Apply via: (https://docs.google.com/forms/d/e/1FAIpQLSfp3Id0Ax1N12twPRFyjV9zD7si975VpWveo1T8KCuzr9t7LA/viewform)
   (https://github.com/user-attachments/assets/885aca02-2ebf-4d86-bc10-98aa2b14d4f4)
 - [ ]  FREE (3 DAYS) WordPress Bootcamp in Kampala. Learn to build websites, host them, and acquire clients. This training will run from January 29th to 31st 2026 at the National ICT Innovation Hub, Nakawa. Secure your spot now: (www.edutechmeetup.org/register)
-  
+  ![wordpress ](https://github.com/user-attachments/assets/3e88a44f-5bfe-4e6e-b239-2b6a31a6551a)
 
 ## February
 - [ ] International Conference on Information Science and Big Data Analytics, organized by Research Leagues, which will take place on Friday 19 February 2026 at Kampala, Uganda. Learn more: (https://researchleagues.com/event/index.php?id=100071993)
